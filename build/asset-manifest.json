@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.584107cc.css",
+    "main.js": "/static/js/main.fc4d31e9.js",
+    "static/js/727.b6f24582.chunk.js": "/static/js/727.b6f24582.chunk.js",
+    "static/js/855.0e9167b4.chunk.js": "/static/js/855.0e9167b4.chunk.js",
+    "static/js/127.f69683ba.chunk.js": "/static/js/127.f69683ba.chunk.js",
+    "static/js/883.94bbb67e.chunk.js": "/static/js/883.94bbb67e.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/slider3.jpg": "/static/media/slider3.ec3a1523d29b679c9b83.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.06b0aee77ed6ced19d88.jpg",
+    "static/media/slider.jpg": "/static/media/slider.a3fb5e0fb2069a69cb94.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/logo-en.svg": "/static/media/logo-en.1e973eddde1060e1a397edd7e8b95361.svg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/insta.svg": "/static/media/insta.36d56c1f3c029c801351cda0ab19a37f.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/twiter.svg": "/static/media/twiter.69e4ca96a2b2b7195087d8d3e56f8dd6.svg",
+    "static/media/facbook.svg": "/static/media/facbook.aedf5ef85015061fc5ae055af4ee3119.svg",
+    "static/media/send-icon.svg": "/static/media/send-icon.bf31d35858804c0ef9f6a225c8d5d0da.svg",
+    "main.584107cc.css.map": "/static/css/main.584107cc.css.map",
+    "main.fc4d31e9.js.map": "/static/js/main.fc4d31e9.js.map",
+    "727.b6f24582.chunk.js.map": "/static/js/727.b6f24582.chunk.js.map",
+    "855.0e9167b4.chunk.js.map": "/static/js/855.0e9167b4.chunk.js.map",
+    "127.f69683ba.chunk.js.map": "/static/js/127.f69683ba.chunk.js.map",
+    "883.94bbb67e.chunk.js.map": "/static/js/883.94bbb67e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.584107cc.css",
+    "static/js/main.fc4d31e9.js"
+  ]
+}
