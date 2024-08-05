@@ -1,0 +1,40 @@
+export const translations = {
+    en: {
+      aboutUs: "About Us",
+      quickLinks: "Quick Links",
+      openHours: "Open Hours",
+      newsletter: "Newsletter",
+      home: "Home",
+      doctors: "Doctors",
+      services: "Services",
+      contactUs: "Contact Us",
+      logIn: "Log In",
+      signUp: "Sign Up",
+      switchToArabic: "AR",
+      aboutUsContent: "Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      openHoursContent: "Lorem ipsum dolor sit ame consectetur adipisicing elit do eiusmod tempor incididunt.",
+      newsletterContent: "Subscribe to our newsletter to get all our news in your inbox. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      copyright: "Copyright 2018 | All Rights Reserved by wpthemesgrid.com",
+      mondayFriday: "Monday - Friday",
+      emailPlaceholder: "Email Address"
+    },
+    ar: {
+      aboutUs: "معلومات عنا",
+      quickLinks: "روابط سريعة",
+      openHours: "ساعات العمل",
+      newsletter: "النشرة الإخبارية",
+      home: "الرئيسية",
+      doctors: "الأطباء",
+      services: "الخدمات",
+      contactUs: "اتصل بنا",
+      logIn: "تسجيل الدخول",
+      signUp: "إنشاء حساب",
+      switchToArabic: "EN",
+      aboutUsContent: "لوريم إيبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم مطبوعه ...",
+      openHoursContent: "لوريم إيبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم مطبوعه ...",
+      newsletterContent: "اشترك في نشرتنا الإخبارية للحصول على جميع أخبارنا في بريدك الوارد. لوريم إيبسوم هو نموذج افتراضي يوضع في التصاميم ...",
+      copyright: "حقوق الطبع والنشر 2018 | جميع الحقوق محفوظة بواسطة wpthemesgrid.com",
+      mondayFriday: "الإثنين - الجمعة",
+      emailPlaceholder: "البريد الإلكتروني"
+    }
+};

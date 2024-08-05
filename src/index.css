@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'slick-carousel/slick/slick.css';
+@import 'slick-carousel/slick/slick-theme.css';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+html, body {
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+}
+
+#root {
+  @apply flex flex-col min-h-screen;
+}
+
+.App {
+  @apply flex flex-col flex-grow;
+}
+
+.main-content {
+  @apply flex-grow;
+}
+.text-title-h4 {
+  @apply text-xl font-semibold capitalize text-white mt-[13px];
+}
+
+.text-title-span {
+  @apply text-sm font-semibold capitalize text-white mt-[13px];
+}
+
+.text-title-p {
+  @apply text-sm text-white mt-[22px];
+}
+.link-custom {
+  @apply text-white mt-[25px] font-medium inline-block relative;
+}
+
+.icon-custom {
+  @apply ml-[10px];
+}
+.time-sidual-item {
+  @apply block text-white w-full mb-[3px];
+}
+.custom-inner {
+  @apply relative overflow-hidden p-[30px] z-[2];
+}
